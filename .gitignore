@@ -1,0 +1,14 @@
+.settings
+board
+CMSIS
+component
+device
+drivers
+semihost_hardfault.c
+startup
+utilities
+.cproject
+.project
+.gitattributes
+Debug
+Armenta_T1 JLink Debug.launch
